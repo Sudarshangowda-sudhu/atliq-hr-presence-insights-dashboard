@@ -24,5 +24,5 @@ This dashboard helps HR teams monitor workforce presence, identify trends, and m
 
 ---
 
-**Author:** [Sudarshan Gowda](https://www.linkedin.com/in/sudarshan-gowda)  
+**Author:** [Sudarshan Gowda]([https://www.linkedin.com/in/sudarshan-gowda](https://www.linkedin.com/in/sudarshangowda/))  
 **Email:** sudarshan004.gowda@gmail.com
